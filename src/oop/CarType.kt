@@ -7,4 +7,9 @@ class CarType {
     fun getTest(){
         println(test)
     }
+
+
+    fun getTest(name: String){
+        println("$test and $name")
+    }
 }
