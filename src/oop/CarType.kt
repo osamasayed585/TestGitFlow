@@ -9,6 +9,10 @@ class CarType {
     }
 
 
+    fun getName(){
+        println("Hello GitFlow")
+
+
     fun getTest(name: String){
         println("$test and $name")
     }
