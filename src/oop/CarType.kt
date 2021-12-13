@@ -9,8 +9,9 @@ class CarType {
     }
 
 
-    fun getName(){
+    fun getName() {
         println("Hello GitFlow")
+    }
 
 
     fun getTest(name: String){
